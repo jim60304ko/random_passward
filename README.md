@@ -1,4 +1,4 @@
-# random_passward
+# Random Passward
  Produce random passwards in length of 8, 10, 15 and 20.
 * What can you do with this program?
 	* Create a random passward with a click.
