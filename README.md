@@ -9,3 +9,6 @@
 * How to use it?
 	* Just __download__ this __[program](./dist/main.exe)__.
 	* Double click the program and enjoy it.
+* Some instructions:
+	* Use the __pyinstaller__ to package the [main.py](./main.py) and create the [main.exe](./dist/main.exe).
+	* Use the __tkinter__ to create the simple GUI.
