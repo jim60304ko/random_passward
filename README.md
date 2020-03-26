@@ -7,4 +7,5 @@
 	* The person who often create new accounts.
 	* The person just want to have fun~ XD
 * How to use it?
-	* You can just __download__ the __main.exe__ in the __dist__
+	* Just __download__ this __[program](./dist/main.exe)__.
+	* Double click the program and enjoy it.
